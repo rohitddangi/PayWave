@@ -1,4 +1,4 @@
-# Paywae — Modern Payments Landing (React + Vite + Tailwind)
+# Paywave — Modern Payments Landing (React + Vite + Tailwind)
 
 A clean modern payment landing page inspired by PayPal, built in **React + Vite + Tailwind** with dark mode, feature tabs, pricing, security, FAQ — plus advanced sections like **Fee Calculator**, **Animated Stats**, **Code Examples**, **Comparison Table**, **Trust Strip**, and **Sticky CTA**.
 
